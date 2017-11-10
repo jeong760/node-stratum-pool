@@ -12,14 +12,14 @@
         "litecoin",
         "scrypt",
         "neoscrypt",
-		"yescrypt",
-		"lyra2re",
+        "yescrypt",
+        "lyra2re",
         "lyra2rev2",
-		"blake",
-		"x11",
-		"x13",
-		"x14",
-		"x15"
+        "blake",
+        "x11",
+        "x13",
+        "x14",
+        "x15"
     ],
     "homepage": "https://github.com/strataspool/node-stratum-pool",
     "bugs": {
@@ -38,9 +38,9 @@
     },
     "dependencies": {
         "multi-hashing": "git://github.com/strataspool/node-multi-hashing.git",
-        "bignum": "*",
-        "base58-native": "*",
-        "async": "*",
+        "bignum": "^0.12.5",
+        "base58-native": "^0.1.4",
+        "async": "^2.5.0",
         "redis": "*"
     },
     "engines": {
