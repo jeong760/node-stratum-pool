@@ -21,9 +21,9 @@
         "x14",
         "x15"
     ],
-    "homepage": "https://github.com/strataspool/node-stratum-pool",
+    "homepage": "https://github.com/jeong760/node-stratum-pool",
     "bugs": {
-        "url": "https://github.com/strataspool/node-stratum-pool/issues"
+        "url": "https://github.com/jeong760/node-stratum-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -34,10 +34,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/strataspool/node-stratum-pool.git"
+        "url": "https://github.com/jeong760/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/strataspool/node-multi-hashing.git",
+        "multi-hashing": "git://github.com/jeong760/node-multi-hashing.git",
         "bignum": "^0.12.5",
         "base58-native": "^0.1.4",
         "async": "^2.5.0",
